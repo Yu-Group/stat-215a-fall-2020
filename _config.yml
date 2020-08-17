@@ -12,12 +12,12 @@ plugins: [jekyll-paginate]
 title:            'STAT 215A'
 tagline:          ''
 description:      '[Fall 2020] <br /> Bin Yu <br />'
-url:              http://yu-group.stat-215a-fall-2020.github.io
-baseurl:          /
+url:              "https://yu-group.github.io/stat-215a-fall-2020/"
+baseurl:          "/stat-215a-fall-2020"
 
 author:
   name:           'Bin Yu, James Duncan'
-  url:            http://yu-group.stat-215a-fall-2020.github.io
+  url:            "https://yu-group.github.io/stat-215a-fall-2020/"
 
 paginate:         5
 
