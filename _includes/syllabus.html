@@ -6,11 +6,11 @@
   <tr class="{{row_index}}"> <td class="weeknum" rowspan="{{org_hash.basic.size}}">{{org_hash.weekNum}}</td>
 	{% for day in org_hash.basic %}
 	<td> {{day.date}}</td>
-	<td> {% if day.contentURL %} <a href="{{day.contentURL}}"> {{day.content}}</a>
+	<td> {% if day.contentURL %} <a href="{{day.contentURL | relative_url}}"> {{day.content}}</a>
 		 {% else %} {{day.content}} {% endif %} </td>
 	<td>
 	{% for assignment in day.assignments %}
-	<a href="{{assignment.url}}">{{assignment.name}} </a> <br />
+	<a href="{{assignment.url | relative_url}}">{{assignment.name}} </a> <br />
 	{% endfor %}
 	</td>
 	<tr class="{{row_index}}">

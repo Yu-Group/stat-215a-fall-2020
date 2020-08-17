@@ -22,3 +22,5 @@ author:
 paginate:         5
 
 repository: Yu-Group/stat-215a-fall-2020
+
+gems: ["jekyll-github-metadata"]

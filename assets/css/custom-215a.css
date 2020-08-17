@@ -10,3 +10,7 @@
     color: black;
     text-decoration: none;
 }
+
+img[src*="#staff-image"] {
+    width: 120px;
+}
