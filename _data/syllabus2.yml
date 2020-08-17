@@ -7,7 +7,7 @@ weeks:
       content: "Lecture 1: Introduction"
       assignments:
         - name: Read "Data Wisdom" (before Lecture 2)
-          url: http://www.odbms.org/2015/04/data-wisdom-for-data-science/
+          url: "http://www.odbms.org/2015/04/data-wisdom-for-data-science/"
     - date: Fri 08/28
       content: "Section 0: Github"
       assignments:
