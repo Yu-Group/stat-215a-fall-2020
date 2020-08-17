@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Plugins
+plugins: [jekyll-paginate]
+
+# Setup
+title:            'STAT 215A'
+tagline:          ''
+description:      '[Fall 2020] <br /> Bin Yu <br />'
+url:              http://yu-group.stat-215a-fall-2020.github.io
+baseurl:          /
+
+author:
+  name:           'Bin Yu, James Duncan'
+  url:            http://yu-group.stat-215a-fall-2020.github.io
+
+paginate:         5
+
+repository: Yu-Group/stat-215a-fall-2020

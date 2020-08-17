@@ -1,0 +1,159 @@
+weeks:
+
+  - weekNum: 1
+    weekName: Introduction
+    basic:
+    - date: Thu 08/27
+      content: "Lecture 1: Introduction"
+      assignments:
+        - name: Read "Data Wisdom" (before Lecture 2)
+          url: http://www.odbms.org/2015/04/data-wisdom-for-data-science/
+    - date: Fri 08/28
+      content: "Section 0: Github"
+      assignments:
+        - name: "Lab 0: Git repo setup (Due 09/04)"
+          url: /labs/lab0.pdf
+
+  - weekNum: 2
+    weekName: Week 2
+    basic:
+    - date: Tue 09/01
+      content: "Lecture 2"
+    - date: Thu 09/03
+      content: "Lecture 3"
+    - date: Fri 09/04
+      content: "Section 1: Tidyverse + Workflow + Rmd + Latex + R Tricks + Lab 1"
+      assignments:
+        - name: "Lab 1: Redwood data (Due 09/18)"
+          url: /labs/lab1.pdf
+
+  - weekNum: 3
+    weekName: Week 3
+    basic:
+    - date: Tue 09/08
+      content: "Lecture 4"
+    - date: Thu 09/10
+      content: "Lecture 5"
+    - date: Fri 09/11
+      content: "Section 2: Advanced visualization techniques"
+
+  - weekNum: 4
+    weekName: Week 4
+    basic:
+    - date: Tue 09/15
+      content: "Lecture 6"
+    - date: Thu 09/17
+      content: "Lecture 7"
+    - date: Fri 09/18
+      content: "Section 3: TBA"
+
+  - weekNum: 5
+    weekName: Week 5
+    basic:
+    - date: Tue 09/22
+      content: "Lecture 8"
+    - date: Thu 09/24
+      content: "Lecture 9"
+    - date: Fri 09/25
+      content: "Section 4: TBA"
+
+  - weekNum: 6
+    weekName: Week 6
+    basic:
+    - date: Tue 09/29
+      content: "Lecture 10"
+    - date: Thu 10/01
+      content: "Lecture 11"
+    - date: Fri 10/02
+      content: "Section 5: TBA"
+
+  - weekNum: 7
+    weekName: Week 7
+    basic:
+    - date: Tue 10/06
+      content: "Lecture 12"
+    - date: Thu 10/08
+      content: "Lecture 13"
+    - date: Fri 10/09
+      content: "Section 6: TBA"
+  
+  - weekNum: 8
+    weekName: Week 8
+    basic:
+    - date: Tue 10/13
+      content: "Lecture 14"
+    - date: Thu 10/15
+      content: "Lecture 15"
+    - date: Fri 10/16
+      content: "Section 7: TBA"
+  
+  - weekNum: 9
+    weekName: Week 9
+    basic:
+    - date: Tue 10/20
+      content: "Lecture 16"
+    - date: Thu 10/22
+      content: "Lecture 17"
+    - date: Fri 10/23
+      content: "Section 8: TBA"
+  
+  - weekNum: 10
+    weekName: Week 10
+    basic:
+    - date: Tue 10/27
+      content: "Lecture 18"
+    - date: Thu 10/29
+      content: "Lecture 19"
+    - date: Fri 10/30
+      content: "Section 9: TBA"
+  
+  - weekNum: 11
+    weekName: Week 11
+    basic:
+    - date: Tue 11/03
+      content: "Lecture 20"
+    - date: Thu 11/05
+      content: "Lecture 21"
+    - date: Fri 11/06
+      content: "Section 10: TBA"
+  
+  - weekNum: 12
+    weekName: Week 12
+    basic:
+    - date: Tue 11/10
+      content: "Lecture 22"
+    - date: Thu 11/12
+      content: "Lecture 23"
+    - date: Fri 11/13
+      content: "Section 11: TBA"
+  
+  - weekNum: 13
+    weekName: Week 13
+    basic:
+    - date: Tue 11/17
+      content: "Lecture 24"
+    - date: Thu 11/19
+      content: "Lecture 25"
+    - date: Fri 11/20
+      content: "Section 12: TBA"
+  
+  - weekNum: 14
+    weekName: Week 14
+    basic:
+    - date: Tue 11/24
+      content: "Lecture 26"
+    - date: Thu 11/26
+      content: "Lecture 27"
+    - date: Fri 11/27
+      content: "Section 13: TBA"
+  
+  - weekNum: 15
+    weekName: Week 15
+    basic:
+    - date: Tue 12/01
+      content: "Lecture 28"
+    - date: Thu 12/03
+      content: "Lecture 29"
+    - date: Fri 12/04
+      content: "Section 14: TBA"
+  
