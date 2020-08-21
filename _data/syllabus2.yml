@@ -4,7 +4,7 @@ weeks:
     weekName: Introduction
     basic:
     - date: Thu 08/27
-      content: "Lecture 1: Introduction"
+      content: "Lecture 1: Introductions"
       assignments:
         - name: Read "Data Wisdom" (before Lecture 2)
           url: "http://www.odbms.org/2015/04/data-wisdom-for-data-science/"
@@ -12,58 +12,70 @@ weeks:
       content: "Section 0: Github"
       assignments:
         - name: "Lab 0: Git repo setup (Due 09/04)"
-          url: /labs/lab0.pdf
+          #url: /labs/lab0.pdf
 
   - weekNum: 2
     weekName: Week 2
     basic:
     - date: Tue 09/01
-      content: "Lecture 2"
+      content: "Lecture 2: Problem Formulation"
     - date: Thu 09/03
-      content: "Lecture 3"
+      content: "Lecture 3: Exploratory Data Analysis (EDA)"
     - date: Fri 09/04
       content: "Section 1: Tidyverse + Workflow + Rmd + Latex + R Tricks + Lab 1"
       assignments:
+        - name: Lab 0 due
+          url:
         - name: "Lab 1: Redwood data (Due 09/18)"
-          url: /labs/lab1.pdf
+          #url: /labs/lab1.pdf
 
   - weekNum: 3
     weekName: Week 3
     basic:
     - date: Tue 09/08
-      content: "Lecture 4"
+      content: "Lecture 4: EDA (Part 2)"
     - date: Thu 09/10
-      content: "Lecture 5"
+      content: "Lecture 5: EDA (Part 3)"
     - date: Fri 09/11
       content: "Section 2: Advanced visualization techniques"
-
+      
   - weekNum: 4
     weekName: Week 4
     basic:
     - date: Tue 09/15
-      content: "Lecture 6"
+      content: "Lecture 6: Prediction and assessment"
     - date: Thu 09/17
-      content: "Lecture 7"
+      content: "Lecture 7: Prediction and assessment (Part 2)"
     - date: Fri 09/18
       content: "Section 3: TBA"
+      assignments:
+        - name: Lab 1 due (midnight before section)
+    - date: Sun 09/20
+      assignments:
+        - name: Lab 1 peer review (due 09/27)
 
   - weekNum: 5
     weekName: Week 5
     basic:
     - date: Tue 09/22
-      content: "Lecture 8"
+      content: "Lecture 8: Stability"
     - date: Thu 09/24
-      content: "Lecture 9"
+      content: "Lecture 9: Stability (Part 2)"
     - date: Fri 09/25
       content: "Section 4: TBA"
+      assignments:
+        - name: Lab 2 (Due 10/09)
+    - date: Fri 09/27
+      assignments:
+        - name: Lab 1 peer review due
 
   - weekNum: 6
     weekName: Week 6
     basic:
     - date: Tue 09/29
-      content: "Lecture 10"
+      content: "Lecture 10: Stability (Part 3)"
     - date: Thu 10/01
-      content: "Lecture 11"
+      content: "Lecture 11: Stability (Part 4)"
     - date: Fri 10/02
       content: "Section 5: TBA"
 
@@ -71,89 +83,106 @@ weeks:
     weekName: Week 7
     basic:
     - date: Tue 10/06
-      content: "Lecture 12"
+      content: "Lecture 12: Sources of randomness"
     - date: Thu 10/08
-      content: "Lecture 13"
+      content: "Lecture 13: Sources of randomness (Part 2)"
     - date: Fri 10/09
       content: "Section 6: TBA"
+      assignments:
+        - name: Lab 2 due (midnight before section)
   
   - weekNum: 8
     weekName: Week 8
     basic:
     - date: Tue 10/13
-      content: "Lecture 14"
-    - date: Thu 10/15
-      content: "Lecture 15"
-    - date: Fri 10/16
       content: "Section 7: TBA"
+      assignments:
+        - name: Lab 3 (due 10/23)
+    - date: Thu 10/15
+      content: "Lecture 14: Sources of randomness (Part 3)"
+    - date: Fri 10/16
+      content: "Lecture 15: Bootstrap. Interpretation."
+    - date: Sun 10/18
+      assignments:
+        - name: Lab 2 peer review due
   
   - weekNum: 9
     weekName: Week 9
     basic:
     - date: Tue 10/20
-      content: "Lecture 16"
+      content: "Lecture 16: Bootstrap. Interpretation. (Part 2)"
     - date: Thu 10/22
-      content: "Lecture 17"
+      content: "Lecture 17: Classification"
     - date: Fri 10/23
-      content: "Section 8: TBA"
+      content: "Lecture 18: Classification (Part 2)"
+      assignments:
+        - name: Lab 3 due (midnight before section)
   
   - weekNum: 10
     weekName: Week 10
     basic:
     - date: Tue 10/27
-      content: "Lecture 18"
+      content: "Midterm Review"
     - date: Thu 10/29
-      content: "Lecture 19"
+      content: "Midterm Exam"
     - date: Fri 10/30
-      content: "Section 9: TBA"
+      content: "Section 8: TBA"
+      assignments:
+        - name: Lab 4 (group project, due 11/13)
   
   - weekNum: 11
     weekName: Week 11
     basic:
-    - date: Tue 11/03
-      content: "Lecture 20"
+    - date: Tue 11/03 (voting day!)
+      content: "Lecture 19: Inference for logistic regression"
+      assignments:
     - date: Thu 11/05
-      content: "Lecture 21"
+      content: "Lecture 20: Logistic regression, Exponential family"
     - date: Fri 11/06
-      content: "Section 10: TBA"
+      content: "Section 9: TBA"
   
   - weekNum: 12
     weekName: Week 12
     basic:
     - date: Tue 11/10
-      content: "Lecture 22"
+      content: "Lecture 21: Logistic regression, Exponential family (Part 2)"
     - date: Thu 11/12
-      content: "Lecture 23"
+      content: "Lecture 22: GLMs, Iteratively Reweighted Least Squares"
     - date: Fri 11/13
-      content: "Section 11: TBA"
+      content: "Section 10: TBA"
+      assignments:
+        - name: Lab 4 due (midnight before section)
+        - name: Final project (due 12/04)
   
   - weekNum: 13
     weekName: Week 13
     basic:
     - date: Tue 11/17
-      content: "Lecture 24"
+      content: "Lecture 23: GLMs, Iteratively Reweighted Least Squares (Part 2)"
     - date: Thu 11/19
-      content: "Lecture 25"
+      content: "Lecture 24: Statistical Inference. PCS inference."
     - date: Fri 11/20
-      content: "Section 12: TBA"
+      content: "Section 11: TBA"
   
   - weekNum: 14
     weekName: Week 14
     basic:
     - date: Tue 11/24
-      content: "Lecture 26"
+      content: "Lecture 25: Statistical Inference. PCS inference. (Part 2)"
     - date: Thu 11/26
-      content: "Lecture 27"
+      content: "Thanksgiving Break"
     - date: Fri 11/27
-      content: "Section 13: TBA"
+      content: "Thanksgiving Break"
   
   - weekNum: 15
     weekName: Week 15
     basic:
     - date: Tue 12/01
-      content: "Lecture 28"
+      content: "Lecture 26: Advanced topics"
     - date: Thu 12/03
-      content: "Lecture 29"
+      content: "Lecture 27: Advanced topics (Part 2)"
     - date: Fri 12/04
-      content: "Section 14: TBA"
+      content: "Section 12: TBA"
+      assignments:
+        - name: Final project due (11:59pm)
   

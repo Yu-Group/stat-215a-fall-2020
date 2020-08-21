@@ -3,17 +3,10 @@ layout: page
 title: Textbook
 ---
 
-### Required ###
-- An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics) [2017 Edition]
 
-**Authors**: Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
+- Draft of book “Veridical data science: the practice of responsible data analysis and decision-
+making” by Bin Yu and Rebecca Barter.
 
-### Recommended ###
-- Statistical Models: Theory and Practice [2009 Edition]
+- Statistical Models: Theory and Practice, D. Freedman [2009 Edition] (required)
 
-**Author**: David Freedman
-
-- The Elements of Statistical Learning: Data Mining, Inference, and Prediction [2009 Edition]
-
-**Author**: Trevor Hastie, Robert Tibshirani, Jerome Friedman
-
+- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/), T. Hastie et al. [2009 Edition] (recommended)
