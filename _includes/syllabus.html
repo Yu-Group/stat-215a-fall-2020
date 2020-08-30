@@ -18,6 +18,9 @@ This calendar will be updated as the semester progresses.
               {% else %}
               {{assignment.name}}
               {% endif %}
+              {% if assignment.due %}
+	            <p>Due: {{assignment.due}}</p>
+              {% endif %}
           </li>
         	{% endfor %}
       </ul>
