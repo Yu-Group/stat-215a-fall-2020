@@ -38,6 +38,16 @@ weeks:
     basic:
     - date: Tue 09/08
       content: "Lecture 4: EDA (Part 2)"
+      assignments:
+        - name: Read "Growth in a Time of Debt" (Reinhart & Rogoff, 2010) 
+          url: "https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.100.2.573"
+        - name: Read "Does high public debt consistently stifle economic growth?" (Herndon, Ash, & Pollin, 2014)
+          url: "https://academic.oup.com/cje/article-abstract/38/2/257/1714018"
+        - name: Read "Superheat" (Barter & Yu, 2018)
+          url: https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1473780
+        - name: "Seeing is Believing: 5 Studies about Visual Information Processing"
+          url: "https://piktochart.com/blog/5-psychology-studies-that-tell-us-how-people-perceive-visual-information/"
+          due: Before Lecture 6
     - date: Thu 09/10
       content: "Lecture 5: EDA (Part 3)"
     - date: Fri 09/11
