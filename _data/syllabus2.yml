@@ -89,9 +89,9 @@ weeks:
     - date: Tue 09/29
       content: "Lecture 10: Stability (Part 3)"
     - date: Thu 10/01
-      content: "Lecture 11: Stability (Part 4)"
-    - date: Fri 10/02
       content: "Section 5: TBA"
+    - date: Fri 10/02
+      content: "Lecture 11: Stability (Part 4)"
 
   - weekNum: 7
     weekName: Week 7
