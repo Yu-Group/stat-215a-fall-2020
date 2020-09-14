@@ -58,6 +58,10 @@ weeks:
     basic:
     - date: Tue 09/15
       content: "Lecture 6: Prediction and assessment"
+      assignments:
+        - name: "Read \"What's Wrong with Social Science and How to Fix It: Reflections After Reading 2578 Papers\""
+          url: "https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/"
+          due: Before Lecture 7
     - date: Thu 09/17
       content: "Lecture 7: Prediction and assessment (Part 2)"
     - date: Fri 09/18
