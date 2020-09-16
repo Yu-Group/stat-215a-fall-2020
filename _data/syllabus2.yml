@@ -77,8 +77,14 @@ weeks:
     - date: Tue 09/22
       content: "Lecture 8: Stability"
       readings:
-        - name: "Stability-driven nonnegative matrix factorization to interpret spatial gene expression and build local gene networks"
+        - name: "Stability-driven nonnegative matrix factorization to interpret spatial gene expression and build local gene networks (Wu et al. 2016)"
           url: "https://www.pnas.org/content/113/16/4290"
+        - name: "\"Funes the Memorious\" (Borges, 1942)"
+          url: "http://vigeland.caltech.edu/ist4/lectures/funes%20borges.pdf"
+        - name: "\"Algebraic connectivity of graphs\" (Fiedler 1973)"
+          url: "https://doi.org/10.21136/CMJ.1973.101168"
+        - name: "\"Normalized Cuts and Image Segmentation\" (Shi and Malik, 2000)"
+          url: "https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf"
     - date: Thu 09/24
       content: "Lecture 9: Stability (Part 2)"
     - date: Fri 09/25

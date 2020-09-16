@@ -26,15 +26,17 @@ This calendar will be updated as the semester progresses.
       </ul>
 	</td>
   <td>
-      {% for reading in day.readings %}
-      <li>
-          {% if reading.url %}
-	        <a href="{{ reading.url | relative_url}}">{{reading.name}} </a>
-          {% else %}
-          {{reading.name}}
-          {% endif %}
-      </li>
-      {% endfor %}
+      <ul>
+          {% for reading in day.readings %}
+          <li>
+              {% if reading.url %}
+    	        <a href="{{ reading.url | relative_url}}">{{reading.name}} </a>
+              {% else %}
+              {{reading.name}}
+              {% endif %}
+          </li>
+          {% endfor %}
+      </ul>
   </td>
 	<tr class="{{row_index}}">
   {% endfor %}
