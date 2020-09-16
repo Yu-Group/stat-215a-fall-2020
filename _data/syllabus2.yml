@@ -29,8 +29,8 @@ weeks:
       assignments:
         - name: Lab 0 due
           url:
-        - name: "Lab 1: Redwood data"
-          due: 09/18
+        - name: "Lab 1: Redwood data assigned"
+          due: 09/17 at 11:59pm
 
   - weekNum: 3
     weekName: Week 3
@@ -63,13 +63,14 @@ weeks:
       readings:
         - name: "\"What's Wrong with Social Science and How to Fix It: Reflections After Reading 2578 Papers\""
           url: "https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/"
+      assignments:
+        - name: Lab 1 due at 11:59pm
     - date: Fri 09/18
       content: "Section 3: TBA"
-      assignments:
-        - name: Lab 1 due (midnight before section)
     - date: Sun 09/20
       assignments:
-        - name: Lab 1 peer review (due 09/27)
+        - name: Lab 1 Peer Review assigned
+          due: 09/27 at 11:59pm
 
   - weekNum: 5
     weekName: Week 5
@@ -90,10 +91,11 @@ weeks:
     - date: Fri 09/25
       content: "Section 4: TBA"
       assignments:
-        - name: Lab 2 (Due 10/09)
+        - name: Lab 2 assigned
+          due: 10/08 at 11:59pm
     - date: Sun 09/27
       assignments:
-        - name: Lab 1 peer review due
+        - name: Lab 1 Peer Review due at 11:59pm
 
   - weekNum: 6
     weekName: Week 6
@@ -112,10 +114,15 @@ weeks:
       content: "Lecture 12: Sources of randomness"
     - date: Thu 10/08
       content: "Lecture 13: Sources of randomness (Part 2)"
+      assignments:
+        - name: Lab 2 due at 11:59pm
     - date: Fri 10/09
       content: "Section 6: TBA"
+    - date: Sun 10/11
       assignments:
-        - name: Lab 2 due (midnight before section)
+        - name: Lab 2 Peer Review assigned
+          due: 10/18 at 11:59pm
+
   
   - weekNum: 8
     weekName: Week 8
@@ -123,14 +130,15 @@ weeks:
     - date: Tue 10/13
       content: "Section 7: TBA"
       assignments:
-        - name: Lab 3 (due 10/23)
+        - name: Lab 3 assigned
+          due: 10/22 at 11:59pm
     - date: Thu 10/15
       content: "Lecture 14: Sources of randomness (Part 3)"
     - date: Fri 10/16
       content: "Lecture 15: Bootstrap. Interpretation."
     - date: Sun 10/18
       assignments:
-        - name: Lab 2 peer review due
+        - name: Lab 2 Peer Review due at 11:59pm
   
   - weekNum: 9
     weekName: Week 9
@@ -139,11 +147,11 @@ weeks:
       content: "Lecture 16: Bootstrap. Interpretation. (Part 2)"
     - date: Thu 10/22
       content: "Lecture 17: Classification"
+      assignments:
+        - name: Lab 3 due at 11:59pm
     - date: Fri 10/23
       content: "Lecture 18: Classification (Part 2)"
-      assignments:
-        - name: Lab 3 due (midnight before section)
-  
+
   - weekNum: 10
     weekName: Week 10
     basic:
@@ -154,7 +162,8 @@ weeks:
     - date: Fri 10/30
       content: "Section 8: TBA"
       assignments:
-        - name: Lab 4 (group project, due 11/13)
+        - name: "Lab 4: Group Project assigned"
+          due: "11/12 at 11:59pm"
   
   - weekNum: 11
     weekName: Week 11
@@ -174,11 +183,13 @@ weeks:
       content: "Lecture 21: Logistic regression, Exponential family (Part 2)"
     - date: Thu 11/12
       content: "Lecture 22: GLMs, Iteratively Reweighted Least Squares"
+      assignments:
+        - name: "Lab 4 due at 11:59pm"
     - date: Fri 11/13
       content: "Section 10: TBA"
       assignments:
-        - name: Lab 4 due (midnight before section)
-        - name: Final project (due 12/04)
+        - name: Final Project assigned
+          due: "12/04 at 11:59pm"
   
   - weekNum: 13
     weekName: Week 13
@@ -210,5 +221,5 @@ weeks:
     - date: Fri 12/04
       content: "Section 12: TBA"
       assignments:
-        - name: Final project due (11:59pm)
+        - name: Final Project due at 11:59pm
   
