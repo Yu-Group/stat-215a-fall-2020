@@ -102,6 +102,9 @@ weeks:
     basic:
     - date: Tue 09/29
       content: "Lecture 10: Stability (Part 3)"
+      readings:
+        - name: "Minimum information about clinical artificial intelligence modeling: the MI-CLAIM checklist (Norgeot et al., 2020)"
+          url: "https://www.nature.com/articles/s41591-020-1041-y"
     - date: Thu 10/01
       content: "Section 5: TBA"
     - date: Fri 10/02
