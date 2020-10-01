@@ -109,6 +109,14 @@ weeks:
           url: "http://www.jstor.org/stable/2346178"
         - name: "\"Ridge Regression: Biased Estimation for Nonorthogonal Problems\" (Hoerl & Kennard, 1970)"
           url: "http://www.jstor.org/stable/1267351"
+        - name: "John Platt (1964) “Strong inference”, Science"
+          url: "https://science.sciencemag.org/content/146/3642/347/tab-pdf"
+        - name: "Rohe, Qin and Yu (2016) on directed spectral clustering, PNAS"
+          url: "https://www.pnas.org/content/pnas/113/45/12679.full.pdf"
+        - name: "Breiman (1995) paper on non-negative garrote, which motivated Lasso"
+          url: "https://www.jstor.org/stable/1269730?seq=1"
+        - name: "Elastic net paper by Zuo and Hastie (2005)"
+          url: "https://www.jstor.org/stable/3647580?seq=1"
     - date: Thu 10/01
       content: "Section 5: TBA"
     - date: Fri 10/02
