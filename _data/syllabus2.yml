@@ -132,6 +132,10 @@ weeks:
     basic:
     - date: Tue 10/06
       content: "Lecture 12: Sources of randomness"
+      readings:
+        - name: "Notes on Ridge Regression by van Wieringen"
+          url: "https://arxiv.org/pdf/1509.09169.pdf"
+
     - date: Thu 10/08
       content: "Lecture 13: Sources of randomness (Part 2)"
       assignments:
