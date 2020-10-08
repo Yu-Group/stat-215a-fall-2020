@@ -147,7 +147,7 @@ weeks:
       assignments:
         - name: Lab 2 due at 11:59pm
     - date: Fri 10/09
-      content: "Section 6: TBA"
+      content: "Section 6: Introduce Lab 3"
     - date: Sun 10/11
       assignments:
         - name: Lab 2 Peer Review assigned
@@ -158,14 +158,14 @@ weeks:
     weekName: Week 8
     basic:
     - date: Tue 10/13
-      content: "Section 7: TBA"
+      content: "Lecture 14: Sources of randomness (Part 3)"
       assignments:
         - name: Lab 3 assigned
           due: 10/22 at 11:59pm
     - date: Thu 10/15
-      content: "Lecture 14: Sources of randomness (Part 3)"
-    - date: Fri 10/16
       content: "Lecture 15: Bootstrap. Interpretation."
+    - date: Fri 10/16
+      content: "Section 7: TBA"
     - date: Sun 10/18
       assignments:
         - name: Lab 2 Peer Review due at 11:59pm
@@ -180,7 +180,7 @@ weeks:
       assignments:
         - name: Lab 3 due at 11:59pm
     - date: Fri 10/23
-      content: "Lecture 18: Classification (Part 2)"
+      content: "Section 8: TBA"
 
   - weekNum: 10
     weekName: Week 10
@@ -190,7 +190,7 @@ weeks:
     - date: Thu 10/29
       content: "Midterm Exam"
     - date: Fri 10/30
-      content: "Section 8: TBA"
+      content: "Section 9: Introduce Lab 4"
       assignments:
         - name: "Lab 4: Group Project assigned"
           due: "11/12 at 11:59pm"
@@ -199,10 +199,10 @@ weeks:
     weekName: Week 11
     basic:
     - date: Tue 11/03 (voting day!)
-      content: "Lecture 19: Inference for logistic regression"
+      content: "Lecture 18: Inference for logistic regression"
       assignments:
     - date: Thu 11/05
-      content: "Lecture 20: Logistic regression, Exponential family"
+      content: "Lecture 19: Logistic regression, Exponential family"
     - date: Fri 11/06
       content: "Section 9: TBA"
   
@@ -210,9 +210,9 @@ weeks:
     weekName: Week 12
     basic:
     - date: Tue 11/10
-      content: "Lecture 21: Logistic regression, Exponential family (Part 2)"
+      content: "Lecture 20: Logistic regression, Exponential family (Part 2)"
     - date: Thu 11/12
-      content: "Lecture 22: GLMs, Iteratively Reweighted Least Squares"
+      content: "Lecture 21: GLMs, Iteratively Reweighted Least Squares"
       assignments:
         - name: "Lab 4 due at 11:59pm"
     - date: Fri 11/13
@@ -225,9 +225,9 @@ weeks:
     weekName: Week 13
     basic:
     - date: Tue 11/17
-      content: "Lecture 23: GLMs, Iteratively Reweighted Least Squares (Part 2)"
+      content: "Lecture 22: GLMs, Iteratively Reweighted Least Squares (Part 2)"
     - date: Thu 11/19
-      content: "Lecture 24: Statistical Inference. PCS inference."
+      content: "Lecture 23: Statistical Inference. PCS inference."
     - date: Fri 11/20
       content: "Section 11: TBA"
   
@@ -235,7 +235,7 @@ weeks:
     weekName: Week 14
     basic:
     - date: Tue 11/24
-      content: "Lecture 25: Statistical Inference. PCS inference. (Part 2)"
+      content: "Lecture 24: Statistical Inference. PCS inference. (Part 2)"
     - date: Thu 11/26
       content: "Thanksgiving Break"
     - date: Fri 11/27
@@ -245,9 +245,9 @@ weeks:
     weekName: Week 15
     basic:
     - date: Tue 12/01
-      content: "Lecture 26: Advanced topics"
+      content: "Lecture 25: Advanced topics"
     - date: Thu 12/03
-      content: "Lecture 27: Advanced topics (Part 2)"
+      content: "Lecture 26: Advanced topics (Part 2)"
     - date: Fri 12/04
       content: "Section 12: TBA"
       assignments:
