@@ -161,14 +161,22 @@ weeks:
     weekName: Week 8
     basic:
     - date: Tue 10/13
-      content: "Lecture 14: Sources of randomness (Part 3)"
+      content: "Section 7: TBA"
       assignments:
         - name: Lab 3 assigned
           due: 10/22 at 11:59pm
+      readings:
+        - name: "Neyman (1923)"
+          url: "https://www.jstor.org/stable/2245382"
+        - name: "Rubin (1974)"
+          url: "http://www.fsb.muohio.edu/lij14/420_paper_Rubin74.pdf"
+        - name: "Lin (2013)"
+          url: "https://projecteuclid.org/euclid.aoas/1365527200"
+        - name: "Freedman book chapter 4: linear regression models"
     - date: Thu 10/15
-      content: "Lecture 15: Bootstrap. Interpretation."
+      content: "Lecture 14: Sources of randomness (Part 3)"
     - date: Fri 10/16
-      content: "Section 7: TBA"
+      content: "Lecture 15: Bootstrap. Interpretation."
     - date: Sun 10/18
       assignments:
         - name: Lab 2 Peer Review due at 11:59pm
