@@ -177,6 +177,10 @@ weeks:
       content: "Lecture 14: Sources of randomness (Part 3)"
     - date: Fri 10/16
       content: "Lecture 15: Bootstrap. Interpretation."
+      readings:
+        - name: "Freedman book chapter 5"
+        - name: "Risk Analysis of the Space Shuttle: Pre-Challenger"
+          url: "https://www.tandfonline.com/doi/abs/10.1080/01621459.1989.10478858"
     - date: Sun 10/18
       assignments:
         - name: Lab 2 Peer Review due at 11:59pm
