@@ -181,6 +181,8 @@ weeks:
         - name: "Freedman book chapter 5"
         - name: "Risk Analysis of the Space Shuttle: Pre-Challenger"
           url: "https://www.tandfonline.com/doi/abs/10.1080/01621459.1989.10478858"
+        - name: "Ali et al (2019) paper on facebook ad process"
+          url: "https://arxiv.org/abs/1904.02095"
     - date: Sun 10/18
       assignments:
         - name: Lab 2 Peer Review due at 11:59pm
