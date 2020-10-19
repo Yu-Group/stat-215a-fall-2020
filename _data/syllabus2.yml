@@ -191,13 +191,13 @@ weeks:
     weekName: Week 9
     basic:
     - date: Tue 10/20
-      content: "Lecture 16: Bootstrap. Interpretation. (Part 2)"
+      content: "Section 8: Midterm review"
     - date: Thu 10/22
-      content: "Lecture 17: Classification"
+      content: "Lecture 16: Bootstrap. Interpretation. (Part 2)"
       assignments:
         - name: Lab 3 due at 11:59pm
-    - date: Fri 10/23
-      content: "Section 8: TBA"
+    - date: Fri 10/23 (1-2:30pm)
+      content: "Lecture 17: Classification"
 
   - weekNum: 10
     weekName: Week 10
@@ -215,7 +215,7 @@ weeks:
   - weekNum: 11
     weekName: Week 11
     basic:
-    - date: Tue 11/03 (voting day!)
+    - date: Tue 11/03 (attendance option for voting day!)
       content: "Lecture 18: Inference for logistic regression"
       assignments:
     - date: Thu 11/05
