@@ -208,14 +208,15 @@ weeks:
       content: "Midterm Exam"
     - date: Fri 10/30
       content: "Section 9: Introduce Lab 4"
-      assignments:
-        - name: "Lab 4: Group Project assigned"
-          due: "11/12 at 11:59pm"
   
   - weekNum: 11
     weekName: Week 11
     basic:
-    - date: Tue 11/03 (attendance option for voting day!)
+    - date: Mon 11/02
+      assignments:
+        - name: "Lab 4: Group Project assigned"
+          due: "11/19 at 11:59pm"
+    - date: Tue 11/03 (attendance optional for voting day!)
       content: "Lecture 18: Inference for logistic regression"
       assignments:
     - date: Thu 11/05
@@ -230,13 +231,8 @@ weeks:
       content: "Lecture 20: Logistic regression, Exponential family (Part 2)"
     - date: Thu 11/12
       content: "Lecture 21: GLMs, Iteratively Reweighted Least Squares"
-      assignments:
-        - name: "Lab 4 due at 11:59pm"
     - date: Fri 11/13
       content: "Section 10: TBA"
-      assignments:
-        - name: Final Project assigned
-          due: "12/04 at 11:59pm"
   
   - weekNum: 13
     weekName: Week 13
@@ -245,8 +241,13 @@ weeks:
       content: "Lecture 22: GLMs, Iteratively Reweighted Least Squares (Part 2)"
     - date: Thu 11/19
       content: "Lecture 23: Statistical Inference. PCS inference."
+      assignments:
+        - name: "Lab 4 due at 11:59pm"
     - date: Fri 11/20
       content: "Section 11: TBA"
+      assignments:
+        - name: Final Project assigned
+          due: "12/11 at 11:59pm"
   
   - weekNum: 14
     weekName: Week 14
@@ -266,7 +267,12 @@ weeks:
     - date: Thu 12/03
       content: "Lecture 26: Advanced topics (Part 2)"
     - date: Fri 12/04
-      content: "Section 12: TBA"
+      content: "Extra OH"
+  
+  - weekNum: RRR
+    weekName: RRR Week
+    basic:
+    - date: Fri 12/11
       assignments:
         - name: Final Project due at 11:59pm
   
