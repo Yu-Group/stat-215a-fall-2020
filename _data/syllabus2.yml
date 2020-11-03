@@ -218,7 +218,13 @@ weeks:
           due: "11/19 at 11:59pm"
     - date: Tue 11/03 (attendance optional for voting day!)
       content: "Lecture 18: Inference for logistic regression"
-      assignments:
+      readings:
+        - name: "Nowak’s notes on SPRT"
+          url: "https://nowak.ece.wisc.edu/ece830/ece830_fall11_lecture9.pdf"
+        - name: "A Gentle Introduction to Risk-limiting Audits (Lindeman and Stark, 2012)"
+          url: "https://www.stat.berkeley.edu/~stark/Preprints/gentle12.pdf"
+        - name: "Do-no-harm playbook by Ripley and Kleinfeld (2020)"
+          url: "https://electionsos.com/resource/how-to-cover-electoral-conflict/"
     - date: Thu 11/05
       content: "Lecture 19: Logistic regression, Exponential family"
     - date: Fri 11/06
