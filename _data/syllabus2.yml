@@ -219,8 +219,6 @@ weeks:
     - date: Tue 11/03 (attendance optional for voting day!)
       content: "Lecture 18: Inference for logistic regression"
       readings:
-        - name: "Nowak’s notes on SPRT"
-          url: "https://nowak.ece.wisc.edu/ece830/ece830_fall11_lecture9.pdf"
         - name: "A Gentle Introduction to Risk-limiting Audits (Lindeman and Stark, 2012)"
           url: "https://www.stat.berkeley.edu/~stark/Preprints/gentle12.pdf"
         - name: "Do-no-harm playbook by Ripley and Kleinfeld (2020)"
