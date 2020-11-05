@@ -226,6 +226,8 @@ weeks:
         - name: "SPRT Derivation (on bCourses)"
     - date: Thu 11/05
       content: "Lecture 19: Logistic regression, Exponential family"
+      readings:
+        - name: "Dobson Ch. 3-4"
     - date: Fri 11/06
       content: "Section 9: TBA"
   
