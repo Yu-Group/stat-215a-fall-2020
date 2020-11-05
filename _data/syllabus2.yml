@@ -223,6 +223,7 @@ weeks:
           url: "https://www.stat.berkeley.edu/~stark/Preprints/gentle12.pdf"
         - name: "Do-no-harm playbook by Ripley and Kleinfeld (2020)"
           url: "https://electionsos.com/resource/how-to-cover-electoral-conflict/"
+        - name: "SPRT Derivation (on bCourses)"
     - date: Thu 11/05
       content: "Lecture 19: Logistic regression, Exponential family"
     - date: Fri 11/06
